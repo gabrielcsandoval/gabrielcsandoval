@@ -1,37 +1,50 @@
-Olá, eu sou Gabriel 👋
+<h1 align="center">Gabriel Sandoval</h1>
 
-Backend / Full Stack Developer
-Construo APIs, sistemas internos, automações e integrações com sistemas legados.
+<p align="center">
+  Backend & Full Stack Developer
+</p>
 
-[Tech Stack]
+<p align="center">
+  Desenvolvo APIs, sistemas internos, automações e integrações com sistemas legados.
+</p>
 
-Python • FastAPI • React • SQL • Docker • Git
+---
 
-[What I build]
+### Tecnologias
 
-APIs e integrações
-Sistemas internos
-Automação de processos
-Modernização de sistemas legados
-Observabilidade e infraestrutura
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,react,postgres,docker,git" />
+</p>
 
-[Featured Projects]
+Também trabalho com SQL, Firebird, Redis e Linux.
 
-...
+---
 
-[GitHub Stats]
+### O que eu construo
 
-contribuições
-linguagens
-commits
+- APIs REST e integrações entre sistemas
+- Sistemas internos e ferramentas corporativas
+- Automação de processos
+- Integrações com ERPs e sistemas legados
+- Soluções envolvendo bancos de dados e performance
+- Monitoramento e observabilidade de aplicações
 
-[Currently interested in]
+---
 
-Arquitetura
-Performance
-Microsserviços
-Observabilidade
+### Atualmente estudando e aprimorando
 
-[Contact]
+`Arquitetura de Software` • `Performance` • `Microsserviços` • `Observabilidade` • `DevOps`
 
-Gabrielsandoval05@outlook.com
+---
+
+### GitHub
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=gabrielcsandoval&theme=github-dark-blue&hide_border=true&locale=pt_BR" />
+</p>
+
+---
+
+### Contato
+
+📧 **gabrielsandoval05@outlook.com**
