@@ -41,7 +41,7 @@ Também trabalho com SQL, Firebird, Redis e Linux.
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=gabrielcsandoval&theme=github-dark-blue&hide_border=true&locale=pt_BR"
+    src="https://streak-stats.demolab.com/?user=gabrielcsandoval&theme=github-dark-blue&hide_border=true&locale=pt_BR&v=2"
     alt="GitHub Streak"
   />
 </p>
